@@ -1,0 +1,22 @@
+{
+  "types": [
+      {
+          "id": "type0",
+          "category": "category0",
+          "name": "personal",
+          "description": "Fireworks intended for recreational use during holiday celebrations"
+      },
+      {
+        "id": "type1",
+        "category": "category0",
+        "name": "professional",
+        "description": "Fireworks intended for fireworks shows and parades"
+      },
+      {
+        "id": "type2",
+        "category": "category1",
+        "name": "military",
+        "description": "Fireworks intended for military destruction"
+      }
+  ]
+}

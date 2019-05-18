@@ -1,0 +1,58 @@
+{
+  "products": [{
+      "fairy_sparklers": {
+          "id": "product0",
+          "type": "type0",
+          "name": "Fairy Sparklers",
+          "description": "Multi-colored sparklers that are safe for any age."
+      },
+      "firework_bomb": {
+        "id": "product1",
+        "type": "type2",
+        "name": "Firework Bomb",
+        "description": "Surprise unexpected enemies with these fireworks that are also bombs."
+      },
+      "bazooka_blast": {
+        "id": "product2",
+        "type": "type2",
+        "name": "Bazooka Blast",
+        "description": "Shoots out mult-color doom to your enemies."
+        },
+        "firecracker": {
+          "id": "product4",
+          "type": "type0",
+          "name": "Firecracker",
+          "description": "Your grandpa's favorite 4th of July noisemaker."
+        },
+        "light_show": {
+        "id": "product5",
+        "type": "type1",
+        "name": "The Light Show",
+        "description": "Puts on a unique show for the masses"
+        },
+        "pop_rocks": {
+        "id": "product6",
+        "type": "type0",
+        "name": "Pop Rocks",
+        "description": "Rocks that go pop on the concrete."
+        },
+        "razzle_dazzle": {
+        "id": "product7",
+        "type": "type1",
+        "name": "The Razzle Dazzle",
+        "description": "Our most impressive professional grade fireworks. Hit em with the razzle dazzle!"
+        },
+        "kaboom_bow_wow": {
+        "id": "product8",
+        "type": "type2",
+        "name": "Kaboom Bow Wow",
+        "description": "Super powerful bomb firework. Bye bye, enemies."
+        },
+        "rocket_launcher": {
+        "id": "product9",
+        "type": "type0",
+        "name": "Rocket Launcher",
+        "description": "Shoots fire and confetti into the air. Great for families."
+        }
+        }]
+}
