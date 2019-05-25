@@ -1,5 +1,14 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-color: pink;
+  background-color: secondary;
+}
+
+.title{
+  text-align: center;
+}
+
+.card{
+  text-align: center;
+  margin: 5px;
 }
